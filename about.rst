@@ -16,7 +16,9 @@ Please keep the stories unaltered and raw.
 Please tell the story as if you are telling it to friends at a party or 
 family get together. 
 
-Please send stories to `paul@douglogston.life`_.
+Please contact Paul at `paul@douglogston.life`_ to send in digitally record 
+stories or to arrange for Paul to send you prepaid and pre-addressed 
+packaging for mailing stories and memorial items. 
 
 Thank you for being a part of his life and creating these stories with him. 
 

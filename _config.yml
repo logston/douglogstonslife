@@ -4,4 +4,4 @@ email: paul@douglogston.life
 description: > # this means to ignore newlines until "baseurl:"
   These are stories from Doug Logston's life.
 url: "http://douglogston.life" # the base hostname & protocol for your site
-
+permalink: /:title
